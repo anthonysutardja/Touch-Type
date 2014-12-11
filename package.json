@@ -1,0 +1,28 @@
+{
+  "name": "touchtype",
+  "version": "1.0.0",
+  "description": "An web interface to a serial glove controller",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anthonysutardja/Touch-Type"
+  },
+  "keywords": [
+    "touch",
+    "type",
+    "keyboard"
+  ],
+  "author": "Anthony Sutardja",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anthonysutardja/Touch-Type/issues"
+  },
+  "homepage": "https://github.com/anthonysutardja/Touch-Type",
+  "dependencies": {
+    "express": "^4.10.2",
+    "socket.io": "^1.2.1"
+  }
+}
